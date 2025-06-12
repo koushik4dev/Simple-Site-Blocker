@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Site Blocker</title>
+  <style>
+    ul { padding: 0; }
+    li {
+      margin: 5px 0;
+      list-style: none;
+    }
+    button.unblock {
+      margin-left: 10px;
+      color: white;
+      background-color: red;
+      border: none;
+      padding: 2px 5px;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Blocked Sites</h2>
+  <input type="text" id="site" placeholder="e.g., facebook.com" />
+  <button id="add">Add</button>
+  <ul id="blockedList"></ul>
+  <script src="popup.js"></script>
+</body>
+</html>
