@@ -1,6 +1,6 @@
-# Simple Site Blocker 🚫
+# TabGuardian 🚫
 
-A Chrome extension to block distracting websites like Facebook, YouTube, etc.  
+A Chrome extension to block distracting websites like Facebook, Instagram , YouTube, etc.  
 Includes features to **add** and **unblock** sites easily.
 
 ## Features
